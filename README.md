@@ -19,3 +19,11 @@ Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/pieroguerrero/count.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=blood&hide_border=false)](https://git.io/streak-stats)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pieroguerrero&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pieroguerrero&theme=blue-green)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
