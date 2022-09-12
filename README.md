@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=blood&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
