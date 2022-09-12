@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Visitor Count:
+
+![Visitor Count](https://profile-counter.glitch.me/pieroguerrero/count.svg)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&hide_border=true)](https://git.io/streak-stats)
 
