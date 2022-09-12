@@ -18,15 +18,4 @@ Visitor Count:
 
 ![Visitor Count](https://profile-counter.glitch.me/pieroguerrero/count.svg)
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=blood&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=sea&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=github-light&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=github-light)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=blood&hide_border=false)](https://git.io/streak-stats)
