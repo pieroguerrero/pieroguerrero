@@ -38,15 +38,24 @@ I started my career as Software Developer, then I decided to go in the manageria
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+**Social Media:**
 
-Visitor Count:
+<a href="https://www.linkedin.com/in/pieroguerrero/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://leetcode.com/pieroguerrero/" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://www.instagram.com/piero.guerrerog/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
-![Visitor Count](https://profile-counter.glitch.me/pieroguerrero/count.svg)
+---
+
+**My Github's Streak:**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=blood&hide_border=false)](https://git.io/streak-stats)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pieroguerrero&theme=blue-green)
+**Random Geek Joke:**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+**Visitor Count:**
+
+![Visitor Count](https://profile-counter.glitch.me/pieroguerrero/count.svg)
 
 
