@@ -2,7 +2,7 @@
 
 With +11 years experience as IT professional, I am specialized in Sofware Engineering with a BSc. in Computer Science and a MSc. in Project Management.
 
-I started my career as Software Developer, then I decided to go in the managerial path in positions such as Business Analyst, Scrum Master, Project Manager. Product Manager and Software Development Manager. However, my geek spirit called me several times so i decided to start several entrepeneurships. Finally, I decided to come back 100% and become Software Engineer so in the last 4 years I have been focused on improving my techical skills.
+I started my career as Software Developer, then I decided to go in the managerial path in positions such as Business Analyst, Scrum Master, Project Manager. Product Manager and Software Development Manager. However, my geek spirit called me several times so i decided to start several entrepreneurships. Finally, I decided to come back 100% and become Software Engineer so in the last 4 years I have been focused on improving my technical skills.
 
 **Currently working with:**
 
@@ -38,8 +38,6 @@ I started my career as Software Developer, then I decided to go in the manageria
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-
-- 🔭 I’m currently working at [Lupuna Outdoors](https://lupunaoutdoors.com/)
 
 Visitor Count:
 
