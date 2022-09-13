@@ -39,25 +39,13 @@ I started my career as Software Developer, then I decided to go in the manageria
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at [Lupuna Outdoors](https://lupunaoutdoors.com/)
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 Visitor Count:
 
 ![Visitor Count](https://profile-counter.glitch.me/pieroguerrero/count.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=blood&hide_border=false)](https://git.io/streak-stats)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pieroguerrero&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pieroguerrero&theme=blue-green)
 
