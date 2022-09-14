@@ -1,6 +1,6 @@
 ### Hi there, I'm Piero 👋
 
-With +11 years experience as IT professional, I am Software Engineering with a BSc. in Computer Science and an MSc. in Project Management.
+With +11 years experience as IT professional, I am Software Engineering with a BSc. in Computer Science and a MSc. in Project Management.
 
 I started my career as Software Developer, then I decided to go through the managerial path in positions such as Business Analyst, Scrum Master, Product Manager and IT Solutions Manager. However, my geek spirit called many times so i decided to start several technology entrepreneurship. 
 
@@ -8,9 +8,9 @@ Finally, I decided to come back to the technical and become Software Engineer, s
 
 **Tech tools currently working with:**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DBFB)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![ReactJS](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactjs.org/)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-3490dc?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
