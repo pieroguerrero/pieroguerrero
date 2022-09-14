@@ -1,6 +1,6 @@
 ### Hi there, I'm Piero 👋
 
-With +11 years experience as IT professional, I am Software Engineering with a BSc. in Computer Science and a MSc. in Project Management.
+With +11 years experience as IT professional, I am Software Engineer with a BSc. in Computer Science and a MSc. in Project Management.
 
 I started my career as Software Developer, then I decided to go through the managerial path in positions such as Business Analyst, Scrum Master, Product Manager and IT Solutions Manager. However, my geek spirit called many times so i decided to start several technology entrepreneurship. 
 
