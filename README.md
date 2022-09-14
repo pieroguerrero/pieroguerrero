@@ -41,7 +41,7 @@ Finally, I decided to come back to the technical and become Software Engineer sp
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-**Project and Product tools currently working with:**
+**Project and Product tools working with:**
 
 [![SCRUM.ORG](https://img.shields.io/badge/SCRUM-SCRUM.ORG-137B92?style=for-the-badge)](https://www.scrum.org/resources/what-is-scrum)
 [![SAFe](https://img.shields.io/badge/Scaled%20Agile-SAFe-053947?style=for-the-badge)](https://www.scaledagile.com/what-is-safe/)
