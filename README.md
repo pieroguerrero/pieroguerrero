@@ -2,9 +2,9 @@
 
 With +11 years experience as IT professional, I am Software Engineer with a BSc. in Computer Science and a MSc. in Project Management.
 
-I started my career as Software Developer, then I decided to go through the managerial path in positions such as Business Analyst, Scrum Master, Product Manager and IT Solutions Manager. However, my geek spirit called many times so i decided to start several technology entrepreneurship. 
+I started my career as Software Developer, then I decided to go through the managerial path in positions such as Business Analyst, Scrum Master, Product Manager and IT Solutions Manager. However, my geek spirit called many times so i decided to start several technology entrepreneurships. 
 
-Finally, I decided to come back to the technical and become Software Engineer specialized in Web Development, so since 2018 I have been focused on improving my technical skills.
+Finally, I decided to come back to the technical and become Software Engineer specialized in Web Development, so since 2018 I have been focused on improving my tech skills.
 
 **Tech tools currently working with:**
 
