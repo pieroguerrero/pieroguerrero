@@ -6,7 +6,7 @@ I started my career as Software Developer, then I decided to go through the mana
 
 Finally, I decided to come back to the technical and become Software Engineer specialized in Web Development, so since 2018 I have been focused on improving my tech skills.
 
-**Tech tools currently working with:**
+**Tech tools I am good at:**
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -29,7 +29,7 @@ Finally, I decided to come back to the technical and become Software Engineer sp
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.techtarget.com/searchcloudcomputing/definition/Windows-Azure)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/desktop)
 
-**Tech tools previously worked with:**
+**Tech tools I previously worked with:**
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/doc/essays/blurb/)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction#what_is_django)
@@ -42,7 +42,7 @@ Finally, I decided to come back to the technical and become Software Engineer sp
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-**Project and Product tools working with:**
+**Project and Product tools I am good at:**
 
 [![SCRUM.ORG](https://img.shields.io/badge/SCRUM-SCRUM.ORG-137B92?style=for-the-badge)](https://www.scrum.org/resources/what-is-scrum)
 [![SAFe](https://img.shields.io/badge/Scaled%20Agile-SAFe-053947?style=for-the-badge)](https://www.scaledagile.com/what-is-safe/)
