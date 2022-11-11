@@ -29,6 +29,16 @@ Finally, I decided to come back to the technical and become Software Engineer sp
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.techtarget.com/searchcloudcomputing/definition/Windows-Azure)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/desktop)
 
+**Project and Product tools I am good at:**
+
+[![SCRUM.ORG](https://img.shields.io/badge/SCRUM-SCRUM.ORG-137B92?style=for-the-badge)](https://www.scrum.org/resources/what-is-scrum)
+[![SAFe](https://img.shields.io/badge/Scaled%20Agile-SAFe-053947?style=for-the-badge)](https://www.scaledagile.com/what-is-safe/)
+[![Story Mapping](https://img.shields.io/badge/Product%20Planning-User%20Story%20Map-green?style=for-the-badge)](https://www.visual-paradigm.com/guide/agile-software-development/what-is-user-story-mapping/)
+[![Lean StartUp](https://img.shields.io/badge/product%20development-Lean%20Startup-blue?style=for-the-badge)](https://www.lean.org/lexicon-terms/lean-startup/)
+[![CJM](https://img.shields.io/badge/Customer%20Experience-Customer%20Journey%20Map-yellow?style=for-the-badge)](https://hbr.org/2010/11/using-customer-journey-maps-to)
+[![BMC](https://img.shields.io/badge/Business%20Planning-Business%20Model%20Canvas-purple?style=for-the-badge)](https://www.businessmodelsinc.com/en/inspiration/tools/business-model-canvas)
+[![OKR](https://img.shields.io/badge/Objectives%20Management-OKR-E23123?style=for-the-badge)](https://www.whatmatters.com/faqs/okr-meaning-definition-example)
+
 **Tech tools I previously worked with:**
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/doc/essays/blurb/)
@@ -41,16 +51,6 @@ Finally, I decided to come back to the technical and become Software Engineer sp
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-**Project and Product tools I am good at:**
-
-[![SCRUM.ORG](https://img.shields.io/badge/SCRUM-SCRUM.ORG-137B92?style=for-the-badge)](https://www.scrum.org/resources/what-is-scrum)
-[![SAFe](https://img.shields.io/badge/Scaled%20Agile-SAFe-053947?style=for-the-badge)](https://www.scaledagile.com/what-is-safe/)
-[![Story Mapping](https://img.shields.io/badge/Product%20Planning-User%20Story%20Map-green?style=for-the-badge)](https://www.visual-paradigm.com/guide/agile-software-development/what-is-user-story-mapping/)
-[![Lean StartUp](https://img.shields.io/badge/product%20development-Lean%20Startup-blue?style=for-the-badge)](https://www.lean.org/lexicon-terms/lean-startup/)
-[![CJM](https://img.shields.io/badge/Customer%20Experience-Customer%20Journey%20Map-yellow?style=for-the-badge)](https://hbr.org/2010/11/using-customer-journey-maps-to)
-[![BMC](https://img.shields.io/badge/Business%20Planning-Business%20Model%20Canvas-purple?style=for-the-badge)](https://www.businessmodelsinc.com/en/inspiration/tools/business-model-canvas)
-[![OKR](https://img.shields.io/badge/Objectives%20Management-OKR-E23123?style=for-the-badge)](https://www.whatmatters.com/faqs/okr-meaning-definition-example)
 
 <BR>
 
