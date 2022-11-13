@@ -6,7 +6,7 @@ I started my career as Software Developer, then I decided to go through the mana
 
 Finally, I decided to come back to the technical and become Software Engineer specialized in Web Development, so since 2018 I have been focused on improving my tech skills.
 
-**Tech tools I am good at:**
+**Tech tools I am good with:**
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -29,7 +29,7 @@ Finally, I decided to come back to the technical and become Software Engineer sp
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.techtarget.com/searchcloudcomputing/definition/Windows-Azure)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/desktop)
 
-**Project and Product tools I am good at:**
+**Project and Product tools I am good with:**
 
 [![SCRUM.ORG](https://img.shields.io/badge/SCRUM-SCRUM.ORG-137B92?style=for-the-badge)](https://www.scrum.org/resources/what-is-scrum)
 [![SAFe](https://img.shields.io/badge/Scaled%20Agile-SAFe-053947?style=for-the-badge)](https://www.scaledagile.com/what-is-safe/)
