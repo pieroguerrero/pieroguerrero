@@ -57,7 +57,6 @@ Finally, I decided to come back to the technical and become Software Engineer sp
 
 <a href="https://www.linkedin.com/in/pieroguerrero/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://leetcode.com/pieroguerrero/" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-<a href="https://www.instagram.com/piero.guerrerog/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 ---
 
