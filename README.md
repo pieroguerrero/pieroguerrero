@@ -1,10 +1,10 @@
 ### Hi there, I'm Piero 👋
 
-With +11 years experience as IT professional, I am Software Engineer with a BSc. in Computer Science and a MSc. in Project Management.
++11 years of experience as IT professional. I am Software Engineer with a BSc. in Computer Science and a MSc. in Project Management.
 
 I have worked for companies such as [Verizon](https://go.verizon.com/enterprise), [General Motors](https://www.gm.com/) and [ABB](https://global.abb/group/en)
 
-I have been in roles such as Software Developer, Business Analyst, Scrum Master, Product Manager and IT Solutions Manager. I have also started several technology entrepreneurships.
+Altougth I like to wear the Software Engineer hat with emphasis in Web technologies, the roles along my professional career are varied: Software Developer, Business Analyst, Scrum Master, Product Manager, Software Development Manager and I have also started some technology entrepreneurships.
 
 **Tech tools I am good with:**
 
