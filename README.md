@@ -1,6 +1,6 @@
 ### Hi there, I'm Piero 👋
 
-+11 years of experience as IT professional. I am Software Engineer with a BSc. in Computer Science and a MSc. in Project Management.
+I am Software Engineer with +11 years of experience as IT professional, a BSc. in Computer Science and a MSc. in Project Management.
 
 I have worked for companies such as [Verizon](https://go.verizon.com/enterprise), [General Motors](https://www.gm.com/) and [ABB](https://global.abb/group/en)
 
