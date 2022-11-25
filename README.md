@@ -4,7 +4,7 @@ I am Software Engineer with +11 years of experience as IT professional, a BSc. i
 
 I have worked for companies such as [Verizon](https://go.verizon.com/enterprise), [General Motors](https://www.gm.com/) and [ABB](https://global.abb/group/en)
 
-Altougth I like to wear the Software Engineer hat with emphasis in Web technologies, the roles along my professional career are varied: Software Developer, Business Analyst, Scrum Master, Product Manager, Software Development Manager and I have also started some technology entrepreneurships.
+Along my professional career have been in roles such as Software Developer, Business Analyst, Scrum Master, Product Manager, Software Development Manager and I have also started some technology entrepreneurships. Despite all of them, I like to wear the hat of Software Engineer with emphasis in Web technologies.
 
 **Tech tools I am good with:**
 
