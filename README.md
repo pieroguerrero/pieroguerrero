@@ -24,6 +24,7 @@ I hold a BSc. in Computer Science and a MSc. in Project Management.
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/help/articles/115004071768-What-is-Slack-)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
+[![AWS](https://img.shields.io/badge/aws-%23FF6F00.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.techtarget.com/searchcloudcomputing/definition/Windows-Azure)
 
 **Project and Product tools I am good with:**
