@@ -13,6 +13,7 @@ I hold a BSc. in Computer Science and a MSc. in Project Management.
 [![ReactJS](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactjs.org/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-3490dc?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![SASS](https://img.shields.io/badge/sass-bf4080.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/about/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://www.codecademy.com/article/what-is-express-js)
 [![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
@@ -26,6 +27,7 @@ I hold a BSc. in Computer Science and a MSc. in Project Management.
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 [![AWS](https://img.shields.io/badge/aws-%23FF6F00.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.techtarget.com/searchcloudcomputing/definition/Windows-Azure)
+
 
 **Project and Product tools I am good with:**
 
