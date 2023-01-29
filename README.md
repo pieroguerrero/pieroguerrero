@@ -1,8 +1,8 @@
 ### Hi there, I'm Piero 👋
 
-Software Engineer with +11 years of experience as IT professional in companies such as [Verizon](https://go.verizon.com/enterprise), [General Motors](https://www.gm.com/) and [ABB](https://global.abb/group/en).
+Software Engineer with +11 years of experience as IT professional in companies like [Verizon](https://go.verizon.com/enterprise), [General Motors](https://www.gm.com/) and [ABB](https://global.abb/group/en).
 
-I have been in roles such as Software Developer, Scrum Master, Product Manager, Software Development Manager and I have also started some tech entrepreneurships. Despite all of them I like to wear the hat of Software Engineer with emphasis in Web technologies.
+I have been in roles such as Software Developer, Scrum Master, Product Manager, Software Development Manager and I have also started some tech entrepreneurships. Despite all of them I like to wear the hat of Software Engineer with emphasis in Web development.
 
 I hold a BSc. in Computer Science and a MSc. in Project Management.
 
