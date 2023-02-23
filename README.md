@@ -57,7 +57,6 @@ I hold a BSc. in Computer Science and a MSc. in Project Management.
 **More about me:**
 
 <a href="https://www.linkedin.com/in/pieroguerrero/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://leetcode.com/pieroguerrero/" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 
 ---
 
