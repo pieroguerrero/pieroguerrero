@@ -53,11 +53,6 @@ I hold a BSc. in Computer Science and a MSc. in Project Management.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-
-**More about me:**
-
-<a href="https://www.linkedin.com/in/pieroguerrero/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
 ---
 
 **My Github's Streak:**
