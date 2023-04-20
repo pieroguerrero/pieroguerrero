@@ -39,7 +39,7 @@ I hold a BSc. in Computer Science and a MSc. in Project Management.
 [![BMC](https://img.shields.io/badge/Business%20Planning-Business%20Model%20Canvas-purple?style=for-the-badge)](https://www.businessmodelsinc.com/en/inspiration/tools/business-model-canvas)
 [![OKR](https://img.shields.io/badge/Objectives%20Management-OKR-E23123?style=for-the-badge)](https://www.whatmatters.com/faqs/okr-meaning-definition-example)
 
-**Tech tools I previously worked with:**
+**Tech tools I've previously worked with:**
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/doc/essays/blurb/)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction#what_is_django)
