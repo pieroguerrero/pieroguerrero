@@ -55,14 +55,6 @@ I hold a BSc. in Computer Science and a MSc. in Project Management.
 
 ---
 
-**My Github's Streak:**
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pieroguerrero&theme=blood&hide_border=false)](https://git.io/streak-stats)
-
-**Random Geek Joke:**
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 **Visitor Count:**
 
 ![Visitor Count](https://profile-counter.glitch.me/pieroguerrero/count.svg)
