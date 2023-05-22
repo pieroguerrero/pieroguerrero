@@ -1,4 +1,4 @@
-### Hi there, I'm Piero 👋
+### Hi there, I'm Piero
 
 Software Engineer with +11 years of experience as IT professional in companies like [Verizon](https://go.verizon.com/enterprise), [General Motors](https://www.gm.com/) and [ABB](https://global.abb/group/en).
 
