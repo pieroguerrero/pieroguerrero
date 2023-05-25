@@ -55,6 +55,6 @@ I hold a BSc. in Computer Science and a MSc. in Project Management.
 
 ---
 
-**Visits Count:**
+**Visits count:**
 
 ![Visitor Count](https://profile-counter.glitch.me/pieroguerrero/count.svg)
