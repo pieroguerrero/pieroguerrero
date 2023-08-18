@@ -11,6 +11,7 @@ I hold a BSc. in Computer Science and a MSc. in Project Management.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![ReactJS](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactjs.org/)
+[![NextJS](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-3490dc?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![SASS](https://img.shields.io/badge/sass-bf4080.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
